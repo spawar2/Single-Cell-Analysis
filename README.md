@@ -1,5 +1,5 @@
 [Python: pandas, numpy, matplotlib.pyplot, string, anndata, defaultdict, OrderedDict, sklearn.preprocessing, TruncatedSVD].
-Yale University, School of Medicine, Department of Genetics, Yale Center for Genome Analysis (YCGA), Connecticut,  New Haven, USA.
+Yale University, School of Medicine, Department of Genetics, Yale Center for Genome Analysis (YCGA), Connecticut,  New Haven, United States of America (USA).
 https://campuspress.yale.edu/shrikantpawar/
 
 00_loading_and_preprocessing_scrnaseq_d: Selecting highly variable genes, PHATE plot dimensionality reduction for visualization.
